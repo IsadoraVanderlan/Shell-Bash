@@ -13,7 +13,7 @@ Bash Shell Commands for Cloud
 | `touch nome_do_arquivo` | Cria um arquivo vazio.           |
 | `rm nome_do_arquivo`    | Apaga um arquivo.                |
 | `rm -r nome_da_pasta`   | Apaga uma pasta com tudo dentro. |
-| `cp origem destino`     | Copia arquivo.          |
+| `cp nome_origem nome_destino`     | Copia arquivo.          |
 | `cp -r origem destino`  | Copia pasta.          |
 | `mv origem destino`     | Move ou renomeia.                |
 
