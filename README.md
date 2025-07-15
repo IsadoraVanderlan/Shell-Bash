@@ -9,13 +9,14 @@ Bash Shell Commands for Cloud
 | `cd nome_da_pasta`      | Entra em uma pasta.              |
 | `cd ..`                 | Volta uma pasta.                 |
 | `cd /`                  | Vai para a raiz do sistema.      |
+| `cd ~`                  | Vai para a raiz da pasta.      |
 | `mkdir nome_da_pasta`   | Cria uma nova pasta.             |
 | `touch nome_do_arquivo` | Cria um arquivo vazio.           |
 | `rm nome_do_arquivo`    | Apaga um arquivo.                |
 | `rm -r nome_da_pasta`   | Apaga uma pasta com tudo dentro. |
 | `cp nome_origem nome_destino`     | Copia arquivo.          |
 | `cp nome_origem nome_destino`  | Copia pasta.          |
-| `mv mv ~/caminho_origem/caminho_origem ~/nome_destino/`     | Move ou renomeia.                |
+| `mv ~/caminho_origem/caminho_origem ~/nome_destino/`     | Move ou renomeia.                |
 
 <br>
 
