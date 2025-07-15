@@ -29,6 +29,8 @@ Bash Shell Commands for Cloud
 | `grep "texto" arquivo` | Procura por um texto dentro de um arquivo. |
 | `wc -l arquivo`        | Conta quantas linhas tem.                  |
 
+<br>
+
 
 🧰 **Comandos Úteis para Automação e Scripts**
 | Comando              | O que faz                                |
@@ -40,6 +42,8 @@ Bash Shell Commands for Cloud
 | `./script.sh`        | Executa um script.                       |
 
 
+<br>
+
 🌐 **Comandos de Rede (usados para testar conectividade com a AWS e outras redes)**
 | Comando                | O que faz                                    |
 | ---------------------- | -------------------------------------------- |
@@ -50,6 +54,8 @@ Bash Shell Commands for Cloud
 | `nslookup dominio.com` | Mostra o IP de um domínio.                   |
 
 
+<br>
+
 🔍 **Comandos de Busca e Monitoramento**
 | Comando                | O que faz                                      |
 | ---------------------- | ---------------------------------------------- |
@@ -59,6 +65,8 @@ Bash Shell Commands for Cloud
 | `df -h`                | Mostra o uso de espaço em disco.               |
 | `du -sh pasta`         | Mostra o tamanho da pasta.                     |
 
+
+<br>
 
 🧹 **Comandos para Limpeza e Diagnóstico**
 | Comando   | O que faz                                     |
