@@ -1,7 +1,7 @@
 # Shell-Bash
 Bash Shell Commands for Cloud
 
-**🗂️ Comandos de Navegação e Manipulação de Arquivos
+🗂️ **Comandos de Navegação e Manipulação de Arquivos
 | Comando                 | O que faz                        |
 | ----------------------- | -------------------------------- |
 | `pwd`                   | Mostra o caminho da pasta atual. |
