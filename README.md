@@ -9,7 +9,7 @@ Bash Shell Commands for Cloud
 | `ls -la`                    | Lista os arquivos e pastas completo.      |
 | `ls`                    | Lista os arquivos e pastas.      |
 | `cd nome_da_pasta`      | Entra em uma pasta.              |
-| `cd ..`                 | Volta uma pasta.                 |
+| `cd `                 | Volta uma pasta.                 |
 | `cd /`                  | Vai para a raiz do sistema.      |
 | `mkdir nome_da_pasta`   | Cria uma nova pasta.             |
 | `touch nome_do_arquivo` | Cria um arquivo vazio.           |
