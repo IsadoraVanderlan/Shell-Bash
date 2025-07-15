@@ -14,9 +14,9 @@ Bash Shell Commands for Cloud
 | `rm nome_do_arquivo`    | Apaga um arquivo.                |
 | `rm -r nome_da_pasta`   | Apaga uma pasta com tudo dentro. |
 | `cp origem destino`     | Copia arquivo ou pasta.          |
-| `mv origem destino`     | Move ou renomeia.                |
+| `mv origem destino`     | Move ou renomeia.                |␣␣
 
-<br>
+
 🛠️ **Comandos de Visualização e Edição**
 | Comando                | O que faz                                  |
 | ---------------------- | ------------------------------------------ |
