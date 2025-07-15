@@ -6,10 +6,11 @@ Bash Shell Commands for Cloud
 | ----------------------- | -------------------------------- |
 | `pwd`                   | Mostra o caminho da pasta atual. |
 | `ls`                    | Lista os arquivos e pastas.      |
+| `ls -la`                    | Lista os arquivos e pastas completo.      |
+| `ls`                    | Lista os arquivos e pastas.      |
 | `cd nome_da_pasta`      | Entra em uma pasta.              |
 | `cd ..`                 | Volta uma pasta.                 |
 | `cd /`                  | Vai para a raiz do sistema.      |
-| `cd ~`                  | Vai para a raiz da pasta.      |
 | `mkdir nome_da_pasta`   | Cria uma nova pasta.             |
 | `touch nome_do_arquivo` | Cria um arquivo vazio.           |
 | `rm nome_do_arquivo`    | Apaga um arquivo.                |
