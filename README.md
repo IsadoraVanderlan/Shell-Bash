@@ -1,7 +1,7 @@
 # Shell-Bash
 Bash Shell Commands for Cloud
 
-🗂️ # Comandos de Navegação e Manipulação de Arquivos
+🗂️ **Comandos de Navegação e Manipulação de Arquivos**
 | Comando                 | O que faz                        |
 | ----------------------- | -------------------------------- |
 | `pwd`                   | Mostra o caminho da pasta atual. |
@@ -17,7 +17,7 @@ Bash Shell Commands for Cloud
 | `mv origem destino`     | Move ou renomeia.                |
 
 
-🛠️ Comandos de Visualização e Edição
+🛠️ **Comandos de Visualização e Edição**
 | Comando                | O que faz                                  |
 | ---------------------- | ------------------------------------------ |
 | `cat arquivo`          | Mostra o conteúdo todo do arquivo.         |
@@ -29,7 +29,7 @@ Bash Shell Commands for Cloud
 | `wc -l arquivo`        | Conta quantas linhas tem.                  |
 
 
-🧰 Comandos Úteis para Automação e Scripts
+🧰 **Comandos Úteis para Automação e Scripts**
 | Comando              | O que faz                                |
 | -------------------- | ---------------------------------------- |
 | `echo "texto"`       | Exibe um texto na tela.                  |
@@ -39,7 +39,7 @@ Bash Shell Commands for Cloud
 | `./script.sh`        | Executa um script.                       |
 
 
-🌐 Comandos de Rede (usados para testar conectividade com a AWS e outras redes)
+🌐 **Comandos de Rede (usados para testar conectividade com a AWS e outras redes)**
 | Comando                | O que faz                                    |
 | ---------------------- | -------------------------------------------- |
 | `ping google.com`      | Testa conexão com a internet.                |
@@ -49,7 +49,7 @@ Bash Shell Commands for Cloud
 | `nslookup dominio.com` | Mostra o IP de um domínio.                   |
 
 
-🔍 Comandos de Busca e Monitoramento
+🔍 **Comandos de Busca e Monitoramento**
 | Comando                | O que faz                                      |
 | ---------------------- | ---------------------------------------------- |
 | `find . -name "*.log"` | Busca arquivos por nome.                       |
@@ -59,7 +59,7 @@ Bash Shell Commands for Cloud
 | `du -sh pasta`         | Mostra o tamanho da pasta.                     |
 
 
-🧹 Comandos para Limpeza e Diagnóstico
+🧹 **Comandos para Limpeza e Diagnóstico**
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
 | `clear`   | Limpa a tela do terminal.                     |
