@@ -19,6 +19,8 @@ Bash Shell Commands for Cloud
 | `cp nome_origem nome_destino`  | Copia pasta.          |
 | `mv ~/caminho_origem/caminho_origem ~/nome_destino/`     | Move de pasta.                |
 | `mv nome_antigo novo_nome`     | Renomeia.                |
+| `wget -P ju https://site.com/arquivo.txt`     | colocar arquivo direto da web dentro da pasta               |
+
 
 <br>
 
