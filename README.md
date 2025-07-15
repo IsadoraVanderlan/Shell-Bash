@@ -16,7 +16,7 @@ Bash Shell Commands for Cloud
 | `cp origem destino`     | Copia arquivo ou pasta.          |
 | `mv origem destino`     | Move ou renomeia.                |
 
-
+br
 🛠️ **Comandos de Visualização e Edição**
 | Comando                | O que faz                                  |
 | ---------------------- | ------------------------------------------ |
