@@ -129,6 +129,6 @@ Instale o nano: sudo yum install nano
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
 | `nano nome_script.sh`   | Cria um arquivo .sh - enter para abrir o arquivo - contrl x para salvar - y para sair.                     |
-| `ls "|" grep palavra_procurada` | Mostra todos arquivos que contenham essa palavra.            |
+| <pre> ``` ls | grep palavra_procurada ``` </pre> | Mostra todos arquivos que contenham essa palavra.            |
 | `sudo su`  | Para rodar tudo como rute. |
 | `exit`  | Para voltar ao usuário comum.               |
