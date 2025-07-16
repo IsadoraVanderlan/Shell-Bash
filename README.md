@@ -13,7 +13,7 @@ Bash Shell Commands for Cloud
 | Apagar palavra anterior           | ❌ (sem atalho por padrão)                  |
 | Sair do `nano`                    | `Ctrl + X`                                 |
 | Salvar (gravar) o arquivo         | `Ctrl + O`, depois `Enter`                 |
-| Cancelar sem salvar               | `Ctrl + X`, depois `N`                     |
+| Cancelar sem salvar               | `Ctrl + X` se pedir o nome do arquivo nano nome.sh, depois `N`                     |
 | Cortar linhas superiores inteira              | `Ctrl + K` *(funciona!)*                   |
 | Colar linha                       | `Ctrl + U` *(se você usou o Ctrl+K antes)* |
 
