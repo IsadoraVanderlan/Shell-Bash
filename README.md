@@ -14,7 +14,7 @@ Bash Shell Commands for Cloud
 | Sair do `nano`                    | `Ctrl + X`                                 |
 | Salvar (gravar) o arquivo         | `Ctrl + O`, depois `Enter`                 |
 | Cancelar sem salvar               | `Ctrl + X`, depois `N`                     |
-| Cortar linha inteira              | `Ctrl + K` *(funciona!)*                   |
+| Cortar linhas superiores inteira              | `Ctrl + K` *(funciona!)*                   |
 | Colar linha                       | `Ctrl + U` *(se você usou o Ctrl+K antes)* |
 
 
@@ -129,6 +129,6 @@ Instale o nano: sudo yum install nano
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
 | `nano nome_script.sh`   | Cria um arquivo .sh - enter para abrir o arquivo - contrl x para salvar - y para sair.                     |
-| `ls | grep palavra_procurada` | Mostra todos arquivos que contenham essa palavra.            |
+| `ls "|" grep palavra_procurada` | Mostra todos arquivos que contenham essa palavra.            |
 | `sudo su`  | Para rodar tudo como rute. |
 | `exit`  | Para voltar ao usuário comum.               |
