@@ -89,12 +89,12 @@ Bash Shell Commands for Cloud
 🧰 **Comandos Úteis para Automação e Scripts em nano**
 | Comando              | O que faz                                |
 | -------------------- | ---------------------------------------- |
+| `nome_variavel= "conteudo variavel"`  | cria variavel de texto.           |
 | `echo "texto"`       | Exibe um texto na tela.                  |
 | `echo $VARIAVEL`     | Mostra o valor de uma variável.          |
-| `export NOME=valor`  | Cria uma variável de ambiente.           |
-| `nome_variavel= "conteudo variavel"`  | cria variavel de texto.           |
 | `nome_variavel=$1`  | Permite registrar primeiro argumento.           |
-| `echo $ambiente`  | Chama variavel.           |
+| `export NOME=valor`  | Cria uma variável de ambiente.           |
+
 
 
 <br>
