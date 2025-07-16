@@ -1,6 +1,27 @@
 # Shell-Bash
 Bash Shell Commands for Cloud
 
+<br>
+
+**Sumario**
+| Comando | Significado literal (em inglês) | Tradução / Função                             |
+| ------- | ------------------------------- | --------------------------------------------- |
+| `mkdir` | **make directory**              | criar diretório (pasta)                       |
+| `ls`    | **list**                        | listar arquivos e pastas                      |
+| `cd`    | **change directory**            | mudar de diretório (entrar em pasta)          |
+| `pwd`   | **print working directory**     | mostrar o caminho da pasta atual              |
+| `rm`    | **remove**                      | remover (deletar) arquivo                     |
+| `rmdir` | **remove directory**            | remover diretório (pasta)                     |
+| `cp`    | **copy**                        | copiar arquivo ou pasta                       |
+| `mv`    | **move**                        | mover ou renomear arquivo/pasta               |
+| `touch` | (não é abreviação)              | cria um novo arquivo vazio (ou atualiza data) |
+| `cat`   | **concatenate**                 | juntar e mostrar o conteúdo de arquivos       |
+| `nano`  | nome do editor de texto         | editor simples de arquivos no terminal        |
+| `clear` | **clear screen**                | limpar a tela                                 |
+| `exit`  | **exit**                        | sair do terminal ou sessão                    |
+
+<br>
+
 🗂️ **Comandos de Navegação e Manipulação de Arquivos**
 | Comando                 | O que faz                        |
 | ----------------------- | -------------------------------- |
@@ -81,3 +102,7 @@ Bash Shell Commands for Cloud
 | `history` | Mostra os últimos comandos usados.            |
 | `uptime`  | Mostra há quanto tempo o sistema está ligado. |
 | `whoami`  | Mostra o nome do usuário atual.               |
+
+
+🧹 **Comandos AWS**
+
