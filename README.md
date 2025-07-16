@@ -89,6 +89,7 @@ Bash Shell Commands for Cloud
 🧰 **Comandos Úteis para Automação e Scripts em nano**
 | Comando              | O que faz                                |
 | -------------------- | ---------------------------------------- |
+| `nano nome.sh`  | cria arquivo .sh.           |
 | `nome_variavel= "conteudo variavel"`  | cria variavel de texto.           |
 | `echo "texto"`       | Exibe um texto na tela.                  |
 | `echo $VARIAVEL`     | Mostra o valor de uma variável.          |
