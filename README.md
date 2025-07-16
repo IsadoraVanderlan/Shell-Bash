@@ -80,12 +80,21 @@ Bash Shell Commands for Cloud
 🧰 **Comandos Úteis para Automação e Scripts**
 | Comando              | O que faz                                |
 | -------------------- | ---------------------------------------- |
+| `chmod +x script.sh` | Dá permissão de execução para um script. |
+| `./script.sh`        | Executa um script.                       |
+
+<br>
+
+
+🧰 **Comandos Úteis para Automação e Scripts em nano**
+| Comando              | O que faz                                |
+| -------------------- | ---------------------------------------- |
 | `echo "texto"`       | Exibe um texto na tela.                  |
 | `echo $VARIAVEL`     | Mostra o valor de uma variável.          |
 | `export NOME=valor`  | Cria uma variável de ambiente.           |
-| `nome_variavel= "conteudo variavel"`  | cria dentro do arquivo a variavel.           |
-| `chmod +x script.sh` | Dá permissão de execução para um script. |
-| `./script.sh`        | Executa um script.                       |
+| `nome_variavel= "conteudo variavel"`  | cria variavel de texto.           |
+| `nome_variavel=$1`  | Permite registrar primeiro argumento.           |
+| `echo $ambiente`  | Chama variavel.           |
 
 
 <br>
