@@ -3,7 +3,25 @@ Bash Shell Commands for Cloud
 
 <br>
 
-**Sumario**
+🧠**Atalhos de teclado no terminal nano (editor de texto no terminal) (Bash)**
+| Atalho            | O que faz                                            |
+| ----------------- | ---------------------------------------------------- |
+| Ir para o início da linha         | `Ctrl + A`                                 |
+| Ir para o fim da linha            | `Ctrl + E`                                 |
+| Apagar caractere (como backspace) | `Backspace`                                |
+| Apagar linha inteira              | ❌ (não tem atalho direto nativo)           |
+| Apagar palavra anterior           | ❌ (sem atalho por padrão)                  |
+| Sair do `nano`                    | `Ctrl + X`                                 |
+| Salvar (gravar) o arquivo         | `Ctrl + O`, depois `Enter`                 |
+| Cancelar sem salvar               | `Ctrl + X`, depois `N`                     |
+| Cortar linha inteira              | `Ctrl + K` *(funciona!)*                   |
+| Colar linha                       | `Ctrl + U` *(se você usou o Ctrl+K antes)* |
+
+
+
+<br>
+
+🛠️**Sumario**
 | Comando | Significado literal (em inglês) | Tradução / Função                             |
 | ------- | ------------------------------- | --------------------------------------------- |
 | `mkdir` | **make directory**              | criar diretório (pasta)                       |
@@ -65,6 +83,7 @@ Bash Shell Commands for Cloud
 | `echo "texto"`       | Exibe um texto na tela.                  |
 | `echo $VARIAVEL`     | Mostra o valor de uma variável.          |
 | `export NOME=valor`  | Cria uma variável de ambiente.           |
+| `nome_variavel= "conteudo variavel"`  | cria dentro do arquivo a variavel.           |
 | `chmod +x script.sh` | Dá permissão de execução para um script. |
 | `./script.sh`        | Executa um script.                       |
 
