@@ -108,7 +108,7 @@ Bash Shell Commands for Cloud
 Instale o nano: sudo yum install nano
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
-| `nano nome_script.sh`   | Cria um arquivo .sh e abre o terminal para colocar o codigo.                     |
+| `nano nome_script.sh`   | Cria um arquivo .sh e abre o arquivo para colocar o codigo.                     |
 | `history` | Mostra os últimos comandos usados.            |
 | `uptime`  | Mostra há quanto tempo o sistema está ligado. |
 | `whoami`  | Mostra o nome do usuário atual.               |
