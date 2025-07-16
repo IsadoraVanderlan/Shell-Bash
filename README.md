@@ -110,6 +110,6 @@ Instale o nano: sudo yum install nano
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
 | `nano nome_script.sh`   | Cria um arquivo .sh - enter para abrir o arquivo - contrl x para salvar - y para sair.                     |
-| `history` | Mostra os últimos comandos usados.            |
-| `uptime`  | Mostra há quanto tempo o sistema está ligado. |
-| `whoami`  | Mostra o nome do usuário atual.               |
+| `ls | grep palavra_procurada` | Mostra todos arquivos que contenham essa palavra.            |
+| `sudo su`  | Para rodar tudo como rute. |
+| `exit`  | Para voltar ao usuário comum.               |
