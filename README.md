@@ -103,12 +103,13 @@ Bash Shell Commands for Cloud
 | `uptime`  | Mostra há quanto tempo o sistema está ligado. |
 | `whoami`  | Mostra o nome do usuário atual.               |
 
+<br>
 
-🧹 **Para AWS**
+🧹 **Para AWS**=
 Instale o nano: sudo yum install nano
 | Comando   | O que faz                                     |
 | --------- | --------------------------------------------- |
-| `nano nome_script.sh`   | Cria um arquivo .sh e abre o arquivo para colocar o codigo.                     |
+| `nano nome_script.sh`   | Cria um arquivo .sh - enter para abrir o arquivo - contrl x para salvar - y para sair.                     |
 | `history` | Mostra os últimos comandos usados.            |
 | `uptime`  | Mostra há quanto tempo o sistema está ligado. |
 | `whoami`  | Mostra o nome do usuário atual.               |
