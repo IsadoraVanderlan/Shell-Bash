@@ -81,7 +81,7 @@ Bash Shell Commands for Cloud
 | Comando              | O que faz                                |
 | -------------------- | ---------------------------------------- |
 | `chmod +x script.sh` | Dá permissão de execução para um script. |
-| `./script.sh`        | Executa um script.                       |
+| `./nome_script.sh`        | Executa um script.                       |
 
 <br>
 
